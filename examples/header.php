@@ -6,7 +6,10 @@
     <link rel="stylesheet" href="//brick.a.ssl.fastly.net/Blogger+Sans:400,700">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,400i,700,700i">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
     <link rel="stylesheet" href="src/marina.css?<?php echo rand(); ?>">
+    <link rel="stylesheet" href="src/layout.css?<?php echo rand(); ?>">
 </head>
 <body>
     <header class="header">
